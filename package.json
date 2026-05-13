@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "the js connector for communicating and stress-testing tndr based components",
   "main": "src/index.js",
+  "types": "types/index.d.ts",
   "scripts": {
     "translate:hdt": "",
     "translate:ttl": "node ./src/translateTTL.js",
