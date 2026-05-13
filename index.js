@@ -1,4 +1,4 @@
 export {
-    translateTTL
+    ttl
 } from "./translateTTL"
 
