@@ -1,0 +1,25 @@
+{
+  "name": "@senforsce/tndr",
+  "version": "1.0.0",
+  "description": "the js connector for communicating and stress-testing tndr based components",
+  "main": "index.js",
+  "scripts": {
+    "translate:hdt": "",
+    "translate:ttl": "node ./translateTTL.js",
+    "translate:sparql": "",
+    "translate:tndrf1sh": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Senforsce/tndr-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Senforsce/tndr-js/issues"
+  },
+  "homepage": "https://github.com/Senforsce/tndr-js#readme"
+}
