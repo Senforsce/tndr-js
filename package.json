@@ -1,6 +1,6 @@
 {
   "name": "@senforsce/tndr",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "the js connector for communicating and stress-testing tndr based components",
   "main": "src/index.js",
   "types": "types/index.d.ts",
